@@ -1,0 +1,14 @@
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\bin\Debug\net8.0\ServerGHT.exe
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\bin\Debug\net8.0\ServerGHT.deps.json
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\bin\Debug\net8.0\ServerGHT.runtimeconfig.json
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\bin\Debug\net8.0\ServerGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\bin\Debug\net8.0\ServerGHT.pdb
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.AssemblyInfoInputs.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.AssemblyInfo.cs
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.csproj.CoreCompileInputs.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\refint\ServerGHT.dll
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.pdb
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ServerGHT.genruntimeconfig.cache
+C:\Users\deivy\OneDrive\Documentos\c#-projects\ServerGHT\ServerGHT\obj\Debug\net8.0\ref\ServerGHT.dll
